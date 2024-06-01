@@ -9,5 +9,5 @@ Video content to support Chapter 6: Packed Beds and Fluidized Beds
 Check out this [video demonstration]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=VMENI4_wix4)).
 
 
-[![Watch the video](https://img.youtube.com/vi/4begc_U8ygI/maxresdefault.jpg)](https://www.youtube.com/watch?v=VMENI4_wix4)
+[![Watch the video](https://img.youtube.com/vi/av40qcneOc8/maxresdefault.jpg)](https://www.youtube.com/watch?v=av40qcneOc8)
 
