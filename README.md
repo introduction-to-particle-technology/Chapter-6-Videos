@@ -10,15 +10,15 @@ Video content to support Chapter 6: Packed Beds and Fluidized Beds
 
 ### Geldart group B
 
-[![Watch the video](https://img.youtube.com/vi/av40qcneOc8/sddefault.jpg)](https://www.youtube.com/watch?v=av40qcneOc8)
+[![Watch the video](https://img.youtube.com/vi/pTgqMg_Tn30/sddefault.jpg)](https://www.youtube.com/watch?v=pTgqMg_Tn30)
 
 ### Geldart group C
 
-[![Watch the video](https://img.youtube.com/vi/av40qcneOc8/sddefault.jpg)](https://www.youtube.com/watch?v=av40qcneOc8)
+[![Watch the video](https://img.youtube.com/vi/5cWHMdomegQ/sddefault.jpg)](https://www.youtube.com/watch?v=5cWHMdomegQ)
 
 ### Geldart group D
 
-[![Watch the video](https://img.youtube.com/vi/av40qcneOc8/sddefault.jpg)](https://www.youtube.com/watch?v=av40qcneOc8)
+[![Watch the video](https://img.youtube.com/vi/RsXEvysJ-Q4/sddefault.jpg)](https://www.youtube.com/watch?v=RsXEvysJ-Q4)
 
 
 
