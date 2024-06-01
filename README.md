@@ -22,13 +22,13 @@ Video content to support Chapter 6: Packed Beds and Fluidized Beds
 
 
 
+## Liquid fluidisation
+
+[![Watch the video](https://img.youtube.com/vi/JNkuXtkf_zk/sddefault.jpg)](https://www.youtube.com/watch?v=JNkuXtkf_zk)
 
 
 
 ## And, last but not least, Jeremy the Duck
-
-
-
 
 [![Watch the video](https://img.youtube.com/vi/av40qcneOc8/sddefault.jpg)](https://www.youtube.com/watch?v=av40qcneOc8)
 
