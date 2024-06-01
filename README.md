@@ -2,6 +2,9 @@
 Video content to support Chapter 6: Packed Beds and Fluidized Beds
 
 
+### The behaviour of fluidised beds containing particles from different Geldart groups
+
+
 ## And, last but not least, Jeremy the Duck
 
 
