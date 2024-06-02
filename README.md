@@ -1,5 +1,5 @@
 # Chapter-6-Videos
-Video content to support Chapter 6: Packed Beds and Fluidized Beds
+Video content to support Chapter 6: Packed Beds and Fluidized Beds. The videos can be viewed by clicking on the links below, or downloaded from the repository for use in presentations, lectures, or other outputs. 
 
 
 ## The behaviour of fluidised beds containing particles from different Geldart groups
