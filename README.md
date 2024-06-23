@@ -7,8 +7,11 @@ Video content to support Chapter 6: Packed Beds and Fluidized Beds. The videos c
 Geldart (1973) classified powders into four groups according to their fluidization properties at ambient conditions. These videos demonstrate some of the fluidization key behaviours that characterize each of the four groups:
 
 **Group A** - Powders which when fluidized by air at ambient conditions show a region of non-bubbling fluidization beginning at the minimum fluidization velocity, followed by bubbling fluidization as fluidizing velocity increases. Bubbles reach a stable size by splitting and coalescing.
+
 **Group B** - Powders which give only bubbling fluidization. Bubble size limited only by the vessel size. Particle size greater than Group A.
+
 **Group C** - Very fine, cohesive powders which are incapable of fluidization in the strict sense. No bubbles. Channeling and plug formation. Particle size less than Group A.
+
 **Group D** - Large particles distinguished by their ability to produce deep spouting beds.
 
 Also in this section is a short demonstration of liquid fluidization. In this case, glass beads fluidized by water. Liquid fluidization is almost always non-bubbling.
